@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
     s.version          = '2.0.0'
     s.summary          = 'FFmpeg Kit for iOS with full GPL features'
     s.description      = 'FFmpeg Kit for iOS with full GPL features including libx264'
-    s.homepage         = 'https://github.com/sk3llo/ffmpeg_kit_flutter'
+    s.homepage         = 'https://github.com/flexrun/ffmpeg_kit_flutter'
     s.license          = { :type => 'GPL-3.0' }
     s.author           = { 'FFmpeg Kit' => 'info@ffmpeg.org' }
     s.platform         = :ios, '15.0'
