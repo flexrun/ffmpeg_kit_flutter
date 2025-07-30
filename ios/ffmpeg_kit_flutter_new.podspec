@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'ffmpeg_kit_flutter_new'
-    s.version          = '2.0.1'
+    s.version          = '2.0.2'
     s.summary          = 'FFmpeg Kit for iOS with full GPL features'
     s.description      = 'FFmpeg Kit for iOS with full GPL features including libx264'
     s.homepage         = 'https://github.com/flexrun/ffmpeg_kit_flutter'
